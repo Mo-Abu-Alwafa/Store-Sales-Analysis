@@ -1,6 +1,5 @@
 # US SuperStore Sales Analysis (2015)
 
-**Data Source:** P1-SuperStoreUS-2015.xlsx  
 **Visualization Tool:** Tableau
 
 ## Overview
@@ -27,13 +26,13 @@ This project provides a comprehensive analysis of US SuperStore sales data for 2
 ---
 
 <p align="center">
-  <img src="5. Web App/LOGIN page.jpg" alt="Web App Sample" width="600"/>
+  <img src="tabpublic_C9tWwF07n7.png" alt="Web App Sample" width="600"/>
 </p>
 
 <p align="center">
-  <img src="5. Web App/LOGIN page.jpg" alt="Web App Sample" width="600"/>
+  <img src="tabpublic_DbMtq0s0gm.png" alt="Web App Sample" width="600"/>
 </p>
 
 <p align="center">
-  <img src="5. Web App/LOGIN page.jpg" alt="Web App Sample" width="600"/>
+  <img src="tabpublic_faI0CLhjXB.png" alt="Web App Sample" width="600"/>
 </p>
