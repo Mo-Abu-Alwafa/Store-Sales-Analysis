@@ -1,7 +1,9 @@
 <p align="center">
-  <img src="5. Web App/LOGIN page.jpg" alt="Web App Sample" width="600"/>
+  <img src="header.jpg" alt="Web App Sample" width="600"/>
 </p>
+
 ---
+
 # US SuperStore Sales Analysis (2015)
 
 **Visualization Tool:** Tableau
